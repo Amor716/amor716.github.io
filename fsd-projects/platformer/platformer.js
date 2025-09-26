@@ -41,9 +41,9 @@ createPlatform(1200, 600, 200, 20, "red"); // bright green for a finished platfo
 
 
     // TODO 3 - Create Collectables
-createCollectable("gold", 251, 501);
-createCollectable("dimond", 501, 401);
-createCollectable("silver", 1201, 601)
+createCollectable("steve", 251, 501);
+createCollectable("diamond", 501, 401);
+createCollectable("database", 1201, 601)
 
     
     // TODO 4 - Create Cannons
